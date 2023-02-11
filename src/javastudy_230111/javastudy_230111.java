@@ -1,3 +1,5 @@
+package javastudy_230111;
+
 import java.util.Scanner;
 
 public class javastudy_230111 {
